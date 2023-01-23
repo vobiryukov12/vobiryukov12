@@ -1,6 +1,9 @@
 <!-- ### Hi there 👋 -->
 ## 👋 &nbsp;Hey there! I'm Vlad
 
+### 👨🏻‍💻 &nbsp;About Me
+[CV](https://vobiryukov12.github.io/rsschool-cv/)
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
