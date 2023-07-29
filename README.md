@@ -7,7 +7,6 @@ Frontend Developer
 *   🌍 I'm based in Moscow
 *   🖥️ See my portfolio [here](http://vobiryukov12.github.io/rsschool-cv/)
 *   ✉️ You can contact me at [vobiryukov12@gmail.com](mailto:vobiryukov12@gmail.com)
-*   🚀 I'm currently working on [itBlog](https://github.com/vobiryukov12/itBlog)
 *   🧠 I'm currently learning the React library
 *   🤝 I'm open to collaborating on frontend development
    ### Skills 
